@@ -1,0 +1,66 @@
+<?xml version="1.0"?>
+<!-- IDSP OutBreaks Form P-->
+<outbreak>
+
+	<population>183,184,185,186,1118</population>
+	<orgunitgroup>2</orgunitgroup>
+	<dataset>51</dataset>
+
+	<!-- production -->
+	<norm id="1" caseid="GdlCBPi0QBO" deathid="dIhFTWBjvxP" name="ADD" />
+	<norm id="2" caseid="Z16DYOf347k" deathid="Ut6eMxelWAD" name="Baciliary Dysentery" />
+	<norm id="3" caseid="NSb4FImgbtg" deathid="kehawtkKYZN" name="Hepatitis" />
+	<norm id="4" caseid="TWzSAjObTkI" deathid="ij1QxqKhY61" name="Enteric Fever" />
+	<norm id="5" caseid="rgUtLrzFvp4" deathid="U6WK11paHTH" name="Malaria" />
+	<norm id="6" caseid="yO1NhlLcM1t" deathid="GbNehmGjl1L" name="Dengue/DHF/DSS" />
+	<norm id="7" caseid="Ilz3CMWXKQ5" deathid="ccl8yYgXpWU" name="Chikunguniya" />
+	<norm id="8" caseid="qH1dBwoupmu" deathid="WzbrdF1cS6i" name="Acute Encephalitis Syndrome" />
+	<norm id="9" caseid="a47Q6Smxznc" deathid="ZHww2EwFgdK" name="Meningitis" />
+	<norm id="10" caseid="yswgRbayBMW" deathid="OPIzXVBdDCE" name="Measles" />
+	<norm id="11" caseid="ErYGOBT4q33" deathid="r3E6LuvaNEO" name="Diptheria" />
+	<norm id="12" caseid="knYPJLYh9J4" deathid="LgdKc3eqMp2" name="Pertusis" />
+	<norm id="13" caseid="bnBSkclGFuk" deathid="wsBm1qOhDY3" name="Chicken Pox" />
+	<norm id="14" caseid="XImE0c6qsve" deathid="PJBAcEvHIe6" name="PUO" />
+	<norm id="15" caseid="mgWdSFjcU6g" deathid="g0porq98fOe" name="ARI/Influenza like" />
+	<norm id="16" caseid="mEXXJyNUEn0" deathid="s8R0AD0aQ6e" name="Pneumonia" />
+	<norm id="17" caseid="ppkLjr1cUEa" deathid="JxuY4uB3iUF" name="Leptospirosis" />
+	<norm id="18" caseid="reUAbFA3dX3" deathid="iMErQ2fwrWD" name="AFP less than 15" />
+	<norm id="19" caseid="ilxMcGH5zOB" deathid="qvzKn7JmSO8" name="Dog Bite" />
+	<norm id="20" caseid="uLatEvWRoGl" deathid="gmsS2BL95q1" name="Snake Bite" />
+	<norm id="21" caseid="lD0LthAEadk" deathid="inOhZlb3j4f" name="Scrub Typhus" />
+	<norm id="22" caseid="ju4HPJAOtw0" deathid="hdlWRxIiHv7" name="HFMD" />
+	<norm id="23" caseid="AVxnr678V0k" deathid="QXZbsX8kpW2" name="Any other" />
+	<norm id="24" caseid="NlyYxJ9z4N4" deathid="EUYw4V5YPU9" name="Unusual Syndrome" />
+
+
+
+	
+	
+	<!-- testing -->
+	<!--
+	<norm id="1" caseid="1619" deathid="3343" name="ADD" />
+	<norm id="2" caseid="1620" deathid="3344" name="Baciliary Dysentery" />
+	<norm id="3" caseid="1621" deathid="3345" name="Hepatitis" />
+	<norm id="4" caseid="1622" deathid="3346" name="Enteric Fever" />
+	<norm id="5" caseid="1623" deathid="3347" name="Malaria" />
+	<norm id="6" caseid="1624" deathid="3348" name="Dengue/DHF/DSS" />
+	<norm id="7" caseid="1625" deathid="3349" name="Chikunguniya" />
+	<norm id="8" caseid="1626" deathid="3350" name="Acute Encephalitis Syndrome" />
+	<norm id="9" caseid="1627" deathid="3351" name="Meningitis" />
+	<norm id="10" caseid="1628" deathid="3352" name="Measles" />
+	<norm id="11" caseid="1629" deathid="3353" name="Diptheria" />
+	<norm id="12" caseid="1630" deathid="3354" name="Pertusis" />
+	<norm id="13" caseid="1631" deathid="3355" name="Chicken Pox" />
+	<norm id="14" caseid="1632" deathid="3356" name="PUO" />
+	<norm id="15" caseid="1633" deathid="3357" name="ARI/Influenza like" />
+	<norm id="16" caseid="1634" deathid="3358" name="Pneumonia" />
+	<norm id="17" caseid="1635" deathid="3359" name="Leptospirosis" />
+	<norm id="18" caseid="3117" deathid="3360" name="AFP less than 15" />
+	<norm id="19" caseid="1636" deathid="3361" name="Dog Bite" />
+	<norm id="20" caseid="1637" deathid="3362" name="Snake Bite" />
+	<norm id="21" caseid="3531" deathid="3537" name="Scrub Typhus" />
+	<norm id="22" caseid="3532" deathid="3538" name="HFMD" />
+	<norm id="23" caseid="1638" deathid="3363" name="Any other" />
+	<norm id="24" caseid="1639" deathid="3364" name="Unusual Syndrome" />
+	-->
+</outbreak>

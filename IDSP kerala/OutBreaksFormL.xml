@@ -1,0 +1,59 @@
+<?xml version="1.0"?>
+<!-- IDSP OutBreaks FORM L-->
+<outbreak>
+
+	<population>183,184,185,186,1118</population>
+	<orgunitgroup>29</orgunitgroup>
+	<dataset>53</dataset>
+	
+	<!-- production -->
+	<norm id="1" caseid="subIsApN484" casecolorvalidation ="2" deathid="0" name="Dengue +ve" />
+	<norm id="2" caseid="RfGNTgqOnBc" casecolorvalidation ="-1" deathid="0" name="Chikungunya +ve" />
+	<norm id="3" caseid="iHQ0ui2FeET" casecolorvalidation ="1" deathid="0" name="JE +ve" />
+	<norm id="4" caseid="I5HcWUtahHw" casecolorvalidation ="1" deathid="0" name="Meningococcal Meningitis +ve" />
+	<norm id="5" caseid="pXXPA0mPcQh" casecolorvalidation ="-1" deathid="0" name="Typhoid +ve" />
+	<norm id="6" caseid="tWPdSjhDKuE" casecolorvalidation ="1" deathid="0" name="Diptheria +ve" />
+	<norm id="7" caseid="RJZzuuH1RD7" casecolorvalidation ="1" deathid="0" name="Cholera +ve" />
+	<norm id="8" caseid="G2mFaiVyIIS" casecolorvalidation ="-1" deathid="0" name="Shigella Dysentry +ve" />
+	<norm id="9" caseid="ZqMDmoRkAcj" casecolorvalidation ="-1" deathid="0" name="Viral Hep A +ve" />
+	<norm id="10" caseid="ZABjLOyIEnB" casecolorvalidation ="-1" deathid="0" name="Viral Hep B +ve" />
+	<norm id="11" caseid="RnXk28TW2gB" casecolorvalidation ="-1" deathid="0" name="Viral Hep C +ve" />
+	<norm id="12" caseid="XR5aInyeqMX" casecolorvalidation ="-1" deathid="0" name="Viral Hep E +ve" />
+	<norm id="13" caseid="yoMP70SdTeo" casecolorvalidation ="-1" deathid="0" name="Leptospirosis +ve" />
+	<norm id="14" caseid="S20hItvqpjt" casecolorvalidation ="-1" deathid="0" name="Malaria PF +ve" />
+	<norm id="15" caseid="XYuu2KhJyJO" casecolorvalidation ="-1" deathid="0" name="Malaria PV +ve" />
+	
+	
+	
+	
+	
+	
+	
+	<!-- testing -->
+	<!--
+	<norm id="1" caseid="1642" casecolorvalidation ="2" deathid="0" name="Dengue +ve" />
+	<norm id="2" caseid="1644" casecolorvalidation ="-1" deathid="0" name="Chikungunya +ve" />
+	<norm id="3" caseid="1646" casecolorvalidation ="1" deathid="0" name="JE +ve" />
+	<norm id="4" caseid="1648" casecolorvalidation ="1" deathid="0" name="Meningococcal Meningitis +ve" />
+	<norm id="5" caseid="1650" casecolorvalidation ="-1" deathid="0" name="Typhoid +ve" />
+	<norm id="6" caseid="1652" casecolorvalidation ="1" deathid="0" name="Diptheria +ve" />
+	<norm id="7" caseid="1654" casecolorvalidation ="1" deathid="0" name="Cholera +ve" />
+	<norm id="8" caseid="1656" casecolorvalidation ="-1" deathid="0" name="Shigella Dysentry +ve" />
+	<norm id="9" caseid="1658" casecolorvalidation ="-1" deathid="0" name="Hep A +ve" />
+	<norm id="10" caseid="3534" casecolorvalidation ="-1" deathid="0" name="Viral Hep B +ve" />
+	<norm id="11" caseid="3536" casecolorvalidation ="-1" deathid="0" name="Viral Hep C +ve" />
+	<norm id="12" caseid="1660" casecolorvalidation ="-1" deathid="0" name="Hep E +ve" />
+	<norm id="13" caseid="1662" casecolorvalidation ="-1" deathid="0" name="Leptospirosis +ve" />
+	<norm id="14" caseid="1664" casecolorvalidation ="-1" deathid="0" name="Malaria PF +ve" />
+	<norm id="15" caseid="1665" casecolorvalidation ="-1" deathid="0" name="Malaria PV +ve" />
+	-->
+	
+	<!--
+	<norm id="6" caseid="1677" deathid="0" name="Jaundice" />
+	<norm id="7" caseid="1678" deathid="0" name="AFP" />
+	<norm id="8" caseid="1674,1675,1676" deathid="0" name="Diarrhea" />
+	<norm id="9" caseid="1679" deathid="1693" name="Unusual Symptoms" />
+	-->
+	
+			
+</outbreak>

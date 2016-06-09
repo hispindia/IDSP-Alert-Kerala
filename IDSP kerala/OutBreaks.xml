@@ -1,0 +1,37 @@
+<?xml version="1.0"?>
+<!-- IDSP OutBreaks FORM S-->
+<outbreak>
+
+	<population>183,184,185,186,1118</population>
+	<orgunitgroup>5</orgunitgroup>
+	<dataset>52</dataset>
+	
+	<!-- production -->
+	<norm id="1" caseid="rEvIZVXlpeH" deathid="fivLhKCG41q" name="Only Fever" />
+	<norm id="2" caseid="HKjf8XNthBy" deathid="pla7WzT8mje" name="Fever with rash" />
+	<norm id="3" caseid="KXQ8hvtC7rh" deathid="b0WhlyKxIGY" name="Fever with bleeding" />
+	<norm id="4" caseid="yS9JMi4Kfow" deathid="uE95tjP88Nl" name="Fever with altered sensorium" />
+	<norm id="5" caseid="dxoMv4aXpdO" deathid="w4NzGYIKvsF" name="Fever > 7 days" />
+	<norm id="6" caseid="ewoHxVs93fH;rlynxh7bugM" deathid="lWRsUaEV6TT;AmMibOq6uqM" name="Cough with or without fever" />
+	<norm id="7" caseid="jreIkPDeEiZ" deathid="S47jrSK66qk" name="Jaundice" />
+	<norm id="8" caseid="askB9Z7R1cQ" deathid="iAR4m2XNEgx" name="AFP" />
+	<norm id="9" caseid="fBxl06kJ0uX;zYd6VOVz8Vo" deathid="JRqRuLBbM2b;QvpnV4hsDFM" name="Diarrhoea" />
+	<norm id="10" caseid="W6N4y5ZMk4b" deathid="yG42WF5cgsy" name="Bloody Diarrhoea" />
+	<norm id="11" caseid="kUnPNEwK7ul" deathid="p7bXuBL69mS" name="Unusual Symptoms" />
+	
+	
+	<!-- testing -->
+	<!--
+	<norm id="1" caseid="1667" deathid="1681" name="Only Fever" />
+	<norm id="2" caseid="1668" deathid="1682" name="Fever with rash" />
+	<norm id="3" caseid="1669" deathid="1683" name="Fever with bleeding" />
+	<norm id="4" caseid="1670" deathid="1684" name="Fever with altered sensorium" />
+	<norm id="5" caseid="1671" deathid="1685" name="Fever > 7 days" />
+	<norm id="6" caseid="1672,1673" deathid="1686,1687" name="Cough with or without fever" />
+	<norm id="7" caseid="1677" deathid="1691" name="Jaundice" />
+	<norm id="8" caseid="1678" deathid="1692" name="AFP" />
+	<norm id="9" caseid="1674,1675" deathid="1688,1689" name="Diarrhoea" />
+	<norm id="10" caseid="1676" deathid="1690" name="Bloody Diarrhoea" />
+	<norm id="11" caseid="1679" deathid="1693" name="Unusual Symptoms" />
+	-->
+</outbreak>
